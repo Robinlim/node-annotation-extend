@@ -1,0 +1,21 @@
+{
+  "name": "node-annotation-extend",
+  "version": "0.0.3",
+  "description": "node-annotation extend",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Robinlim/node-annotation-extend.git"
+  },
+  "author": {
+    "name": "robin",
+    "email": "robinlim9@aliyun.com"
+  },
+  "engines": [
+    "node"
+  ],
+  "dependencies": {
+    "node-annotation": "0.0.1",
+    "statsd-client": "^0.2.1"
+  }
+}
