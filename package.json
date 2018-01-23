@@ -1,6 +1,6 @@
 {
   "name": "node-annotation-extend",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "node-annotation extend",
   "license": "MIT",
   "repository": {
@@ -18,7 +18,7 @@
     "node-annotation": "^0.0.*"
   },
   "dependencies": {
-    "node-annotation": "^0.0.*",
+    "node-annotation": "^1.0.0",
     "statsd-client": "^0.2.1"
   }
 }
